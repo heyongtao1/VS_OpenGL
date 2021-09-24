@@ -1,0 +1,33 @@
+﻿  源.cpp
+d:\study\opengl\opengldemo\01\project1\shader.h(56): warning C4101: “e”: 未引用的局部变量
+d:\study\opengl\opengldemo\01\project1\terrain.h(29): warning C4018: “<”: 有符号/无符号不匹配
+d:\study\opengl\opengldemo\01\project1\terrain.h(218): warning C4018: “<=”: 有符号/无符号不匹配
+d:\study\opengl\opengldemo\01\project1\terrain.h(227): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(228): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(229): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(234): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(235): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(236): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(245): warning C4018: “<=”: 有符号/无符号不匹配
+d:\study\opengl\opengldemo\01\project1\terrain.h(248): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(249): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(250): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(255): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(256): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\terrain.h(257): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\perlin.h(64): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(102): warning C4305: “+=”: 从“double”到“float”截断
+d:\study\opengl\opengldemo\01\project1\源.cpp(104): warning C4305: “+=”: 从“double”到“float”截断
+d:\study\opengl\opengldemo\01\project1\源.cpp(240): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(339): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(479): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(480): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(484): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(485): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(487): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(488): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(497): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\Study\OpenGL\OpenGLDemo\01\x64\Debug\Project1.exe
+  Project1.vcxproj -> D:\Study\OpenGL\OpenGLDemo\01\x64\Debug\Project1.pdb (Partial PDB)

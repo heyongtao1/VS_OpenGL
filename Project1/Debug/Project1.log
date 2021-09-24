@@ -1,0 +1,15 @@
+﻿  glad.c
+  源.cpp
+d:\study\opengl\opengldemo\01\project1\shader.h(56): warning C4101: “e”: 未引用的局部变量
+d:\study\opengl\opengldemo\01\project1\源.cpp(27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(223): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(314): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(315): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(319): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(320): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(322): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(323): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\study\opengl\opengldemo\01\project1\源.cpp(332): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\Study\OpenGL\OpenGLDemo\01\Debug\Project1.exe
+  Project1.vcxproj -> D:\Study\OpenGL\OpenGLDemo\01\Debug\Project1.pdb (Partial PDB)
